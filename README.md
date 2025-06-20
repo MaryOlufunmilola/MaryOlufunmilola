@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Research Bioinformatician
+# 👋 Hi, I'm Funmi, a Research Bioinformatician
 
 🎓 **M.Sc. in Bioinformatics** | 💼 8+ years in computational biology  
 🔬 Specializing in **Transcriptomics** (scRNA-seq & spatial), **Cancer Immunology**  
