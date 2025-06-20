@@ -28,7 +28,7 @@
 
 ## 🤝 Let's Connect
 
-If you're working on open-source projects in **bioinformatics**, **cancer omics**, or **ML in biology** — I'm always open to collaboration, learning, and sharing ideas.
+If you're working on open-source projects in **bioinformatics**, **cancer omics**, or **ML in biology** — [I'm](mailto:maryfunmisan@gmail.com) always open to collaboration, learning, and sharing ideas.
 
 
 <!--
