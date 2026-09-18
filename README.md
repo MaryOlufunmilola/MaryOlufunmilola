@@ -1,56 +1,31 @@
-# 👋 Hi, I'm Funmi, a Research Bioinformatician
+# 👋 Hi, I'm Funmi, a Senior Bioinformatician
 
-🎓 **M.Sc. in Bioinformatics** | 💼 8+ years in computational biology  
-🔬 Specializing in **Transcriptomics** (scRNA-seq & spatial), **Cancer Immunology**  
-🧪 Working with **multi-omics data** and **predictive ML models**  
-🌐 Learning **Nextflow**, **Docker**, and expanding **AI applications in biology**
+🎓 **M.Sc. in Bioinformatics** | 💼 9 years in computational biology  
+🔬 Specializing in **cancer genomics**, **multi-omics integration**, and **spatial/single-cell transcriptomics**  
+🧪 Building reproducible pipelines and full-stack research tools. Primary developer for 10+ published bioinformatics databases and tools  
+🌐 Experienced with **Nextflow**, **Docker**, **AWS**, and applying **machine learning** to biological data
 
 ---
 
 ## 🛠️ Technical Stack
 
-- **Languages**: R, Python, Bash, SQL  
-- **Workflow Tools**: Nextflow (learning), Docker (learning), Git  
-- **Cloud & HPC**: AWS, SLURM  
-- **Visualization**: Seurat, scanpy, ggplot2, matplotlib, plotly  
-- **Machine Learning**: scikit-learn, XGBoost, SHAP  
+- **Languages**: R, Python, Bash, SQL
+- **Workflow & Infrastructure**: Nextflow, Docker, AWS, HPC/SLURM, Git
+- **Genomics & Transcriptomics**: Seurat, Scanpy, DESeq2, GATK, bulk/single-cell/spatial RNA-seq
+- **Machine Learning**: PyTorch, scikit-learn, XGBoost, SHAP
+- **Visualization**: ggplot2, matplotlib, plotly
 
 ---
 
 ## 🔬 Current Focus
 
-- 🧬 Reproducible pipelines for **spatial transcriptomics** and **multi-omics integration**  
-- 🧠 **ML models** for cancer and immune profiling  
-- 🛠️ Workflow automation with **Nextflow**, **Docker**, **GitHub Actions**  
-- 🚀 Exploring **AI/ML in bioinformatics**
+- 🧬 Reproducible pipelines for **spatial transcriptomics** and **multi-omics integration**
+- 🧠 Applying **machine learning** to cancer and immune profiling
+- 🛠️ Full-stack development of research tools and databases (SQL, PHP, Nextflow)
+- 🚀 Exploring **AI/ML applications in bioinformatics**
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're working on open-source projects in **bioinformatics**, **cancer omics**, or **ML in biology** — [I'm](mailto:maryfunmisan@gmail.com) always open to collaboration, learning, and sharing ideas.
-
-
-<!--
-**MaryOlufunmilola/MaryOlufunmilola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--XXXX--XXXX-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-XXXX-XXXX)
-![Visitors](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=default" width="48%" />
-</p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're working on projects in **bioinformatics**, **cancer genomics**, or **ML in biology** — [reach out](mailto:maryfunmisan@gmail.com), I'm always open to collaboration, learning, and sharing ideas.
