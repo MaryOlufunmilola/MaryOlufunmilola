@@ -2,7 +2,7 @@
 
 🎓 **M.Sc. in Bioinformatics** | 💼 9 years in computational biology  
 🔬 Specializing in **cancer genomics**, **multi-omics integration**, and **spatial/single-cell transcriptomics**  
-🧪 Building reproducible pipelines and full-stack research tools. Primary developer for 10+ published bioinformatics databases and tools  
+🧪 Building reproducible pipelines and full-stack research tools. Built the web and database layer for 10+ published bioinformatics databases and tools  
 🌐 Experienced with **Nextflow**, **Docker**, **AWS**, and applying **machine learning** to biological data
 
 ---
