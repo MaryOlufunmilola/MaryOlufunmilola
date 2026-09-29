@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Funmi, a Senior Bioinformatician
 
-🎓 **M.Sc. in Bioinformatics** | 💼 9 years in computational biology  
+🎓 **M.Sc. in Bioinformatics** | 💼 9+ years in computational biology  
 🔬 Specializing in **cancer genomics**, **multi-omics integration**, and **spatial/single-cell transcriptomics**  
 🧪 Building reproducible pipelines and full-stack research tools. Built the web and database layer for 10+ published bioinformatics databases and tools  
 🌐 Experienced with **Nextflow**, **Docker**, **AWS**, and applying **machine learning** to biological data
@@ -23,6 +23,19 @@
 - 🧠 Applying **machine learning** to cancer and immune profiling
 - 🛠️ Full-stack development of research tools and databases (SQL, PHP, Nextflow)
 - 🚀 Exploring **AI/ML applications in bioinformatics**
+
+---
+
+---
+
+## 📂 Featured Projects
+
+[#-featured-projects](#-featured-projects)
+
+- 🌐 **[Portfolio](https://claude.ai/artifact/8e8UkXqiKCTUtExLUCrNTg)** overview of my recent bioinformatics work
+- 🧬 **[scRNA-seq-analysis](https://github.com/MaryOlufunmilola/scRNA-seq-analysis)** single-cell RNA-seq pipeline: QC, clustering, cell-type annotation, cell-cell communication
+- 📊 **[TCGA-Cancer-Analysis](https://github.com/MaryOlufunmilola/TCGA-Cancer-Analysis)** differential expression, immune signature scoring, survival analysis, and mutation/TMB analysis on TCGA-UCEC
+- 🔬 **[ovarian-spatial-xenium](https://github.com/MaryOlufunmilola/ovarian-spatial-xenium)** Xenium spatial transcriptomics pipeline
 
 ---
 
