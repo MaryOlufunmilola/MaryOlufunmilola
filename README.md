@@ -30,7 +30,7 @@
 
 ## 📂 Featured Projects
 
-- 🌐 **[Portfolio](https://claude.ai/artifact/8e8UkXqiKCTUtExLUCrNTg)** overview of my recent bioinformatics work
+- 🌐 **[Portfolio]()** overview of my recent bioinformatics work
 - 🧬 **[scRNA-seq-analysis](https://github.com/MaryOlufunmilola/scRNA-seq-analysis)** single-cell RNA-seq pipeline: QC, clustering, cell-type annotation, cell-cell communication
 - 📊 **[TCGA-Cancer-Analysis](https://github.com/MaryOlufunmilola/TCGA-Cancer-Analysis)** differential expression, immune signature scoring, survival analysis, and mutation/TMB analysis on TCGA-UCEC
 - 🔬 **[ovarian-spatial-xenium](https://github.com/MaryOlufunmilola/ovarian-spatial-xenium)** Xenium spatial transcriptomics pipeline
