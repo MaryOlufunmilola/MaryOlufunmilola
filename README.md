@@ -39,4 +39,4 @@
 
 ## 🤝 Let's Connect
 
-If you're working on projects in **bioinformatics**, **cancer genomics**, or **ML in biology** — [reach out](mailto:maryfunmisan@gmail.com), I'm always open to collaboration, learning, and sharing ideas.
+If you're working on projects in **bioinformatics**, **cancer genomics**, or **ML in biology**, [I'm](mailto:maryfunmisan@gmail.com) always open to collaboration, learning, and sharing ideas.
